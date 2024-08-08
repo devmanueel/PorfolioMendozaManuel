@@ -58,13 +58,14 @@ html{
 /* SECCION I N I C I O */
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
-    url(img/fondo.jpg);
+    url(img/pexels-pixabay-276452.jpg);
     background-size: cover;
     height: 100vh;
     color: #fff;
     display: flex;
     align-items: center;
 }
+
 .inicio .contenido-banner{
     padding: 20px;
     background-color: #1e2326;
@@ -338,7 +339,7 @@ html{
 }
 @keyframes creatividad {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .dedicacion{
@@ -347,7 +348,7 @@ html{
 }
 @keyframes dedicacion {
     0%{width: 0%;}
-    100%{width: 65%;}
+    100%{width: 90%;}
 }
 
 .skills .skill .proyect{
@@ -356,7 +357,7 @@ html{
 }
 @keyframes proyect {
     0%{width: 0%;}
-    100%{width: 94%;}
+    100%{width: 70%;}
 }
 /* SECCION CURRICULUM */
 .curriculum{
